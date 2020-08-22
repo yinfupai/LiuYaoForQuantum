@@ -1,2 +1,3 @@
-# LiuYaoForQuantum-
-量子计算生成六爻卦
+# LiuYaoForQuantum
+
+量子的内禀属性有真正天然的真随机性，利用IBM提供的Qiskit接入量子计算机来生成六爻卦,应当考虑实践中反复检验是否会更具准确度
